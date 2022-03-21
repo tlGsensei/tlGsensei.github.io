@@ -1,3 +1,7 @@
+---
+typora-root-url: assert
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tlGsensei/gtl.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +39,18 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+test
+
+<ul>
+  {% for post in site.posts %}
+​    <li>
+​      <a href="{{ https://space.bilibili.com/282828523?spm_id_from=333.1007.0.0}}">{{ Gsensei's bilibili }}</a>
+​    </li>
+  {% endfor %}
+</ul>
+
+![picture1](E:\Github Repository\gtl.github.com\assert\picture1.png)
+
+
+
