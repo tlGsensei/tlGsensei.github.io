@@ -4,4 +4,5 @@ title: "Welcome to the site of Gsensei!!"
 date: 2022-3-22
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+The site is built on March 22 2022.
+Thank you for visting my site and enjoy you time here!!
