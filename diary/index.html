@@ -1,1 +1,11 @@
+---
+layout: default
+title: Gsensei's Diary
+---
+	<h1>{{ page.title }}</h1>
+	<ul class="diaries">
 
+	  {% for diary in site.dairies %}
+	    <li><span>{{ diary.date | date_to_string }}</span> » <a href="{{ diary.url }}" title="{{ diary.title }}">{{ diary.title }}</a></li>
+	  {% endfor %}
+	</ul>
