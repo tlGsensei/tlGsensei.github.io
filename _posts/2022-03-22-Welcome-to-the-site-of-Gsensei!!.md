@@ -10,9 +10,9 @@ Thank you for visting my site and enjoy you time here!!
 ![picture1](https://github.com/tlGsensei/tlGsensei.github.io/blob/gh-pages/assert/picture1.png?raw=true){:height="180px" width="320px"}
 
 <figure class="third">
-    <img src="https://github.com/tlGsensei/tlGsensei.github.io/blob/gh-pages/assert/picture2.png?raw=true">
-    <img src="https://github.com/tlGsensei/tlGsensei.github.io/blob/gh-pages/assert/picture3.png?raw=true">
-    <img src="https://github.com/tlGsensei/tlGsensei.github.io/blob/gh-pages/assert/picture4.png?raw=true">
+    <img src="https://github.com/tlGsensei/tlGsensei.github.io/blob/gh-pages/assert/picture2.png?raw=true" height="180px" width="320px">
+    <img src="https://github.com/tlGsensei/tlGsensei.github.io/blob/gh-pages/assert/picture3.png?raw=true" height="180px" width="320px">
+    <img src="https://github.com/tlGsensei/tlGsensei.github.io/blob/gh-pages/assert/picture4.png?raw=true" height="180px" width="320px">
 </figure>
 
 <!-- ![test image size](url){:class="img-responsive"}
