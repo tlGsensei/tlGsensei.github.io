@@ -8,11 +8,19 @@ date: 2022-3-28
 
 **_layouts/**
 
-default.html: 页面默认布局，被index.html引用，Every time you commit a file that specifies layout: default at the top, Jekyll will magically generate the full HTML 
+default.html: 页面默认布局，被index.html引用，Every time you commit a file that specifies layout: default at the top, Jekyll will magically generate the full HTML
+
+**_diaries/**
+
+存储diary，markdown文件，命名为“YYYY-MM-DD-Title.md”
 
 **_posts/**
 
 存储blog，markdown文件，命名为“YYYY-MM-DD-Title.md”
+
+**_videos/**
+
+存储video，markdown文件，命名为“YYYY-MM-DD-Title.md”
 
 **_site/**
 
@@ -28,13 +36,17 @@ index.html: blog页布局
 
 atom.xml
 
-**css/**
-
-main.css: 页面参数设置
-
 **diary/**
 
 index.html: diary页布局
+
+**vedio/**
+
+index.html: vedio页布局
+
+**css/**
+
+main.css: 页面参数设置
 
 **.gitigore** 
 
