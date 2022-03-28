@@ -1,0 +1,13 @@
+---
+layout: default
+title: Video
+---
+<h2>{{ page.title }}</h2>
+
+<p>The videos of Gsensei site is released on bilibili.</p>
+<p><h2>Catalog: </h2>Click to see videos.</p>
+<ul class="videos">
+    {% for video in site.videos %}
+        <li><span>{{ diary.date | date_to_string }}</span> » <a href="{{ video.url }}" title="{{ video.title }}">{{ video.title }}</a></li>
+    {% endfor %}
+</ul>
