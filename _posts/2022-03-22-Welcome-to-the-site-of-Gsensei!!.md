@@ -7,7 +7,7 @@ date: 2022-3-22
 The site is built on March 22 2022.
 Thank you for visting my site and enjoy you time here!!
 
-![picture1](https://github.com/tlGsensei/tlGsensei.github.io/blob/gh-pages/assert/picture1.png?raw=true){:height="100px" width="400px"}
+![picture1](https://github.com/tlGsensei/tlGsensei.github.io/blob/gh-pages/assert/picture1.png?raw=true){:height="180px" width="320px"}
 
 <!-- ![test image size](url){:class="img-responsive"}
 ![test image size](url){:height="50%" width="50%"}
