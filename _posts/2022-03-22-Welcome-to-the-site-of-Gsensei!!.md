@@ -5,9 +5,12 @@ date: 2022-3-22
 ---
 
 The site is built on March 22 2022.
-Thank you for visting my site and enjoy you time here!!
+Thank you for visting my site and enjoy your time here!
 
-![picture1](https://github.com/tlGsensei/tlGsensei.github.io/blob/gh-pages/assert/picture1.png?raw=true){:height="180px" width="320px"}
+<center>
+    <img src="https://github.com/tlGsensei/tlGsensei.github.io/blob/gh-pages/assert/picture1.png?raw=true" height="180px" width="320px">
+</center>
+
 
 <figure class="third">
     <img src="https://github.com/tlGsensei/tlGsensei.github.io/blob/gh-pages/assert/picture2.png?raw=true" height="180px" width="320px">
@@ -17,4 +20,4 @@ Thank you for visting my site and enjoy you time here!!
 
 <!-- ![test image size](url){:class="img-responsive"}
 ![test image size](url){:height="50%" width="50%"}
-![test image size](url){:height="100px" width="400px"} -->
+![test image size](url){:height="180px" width="320px"} -->
