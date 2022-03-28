@@ -5,11 +5,11 @@ title: Video
 <h2>{{ page.title }}</h2>
 
 <p>The videos of Gsensei site is released on bilibili.</p>
-<p><h2>Catalog: </h2></p>
+<h2>Catalog: </h2>
 <p>Click to see videos.</p>
 
 <ul class="videos">
-    {% for video in site.videos %}
-        <li><span>{{ diary.date | date_to_string }}</span> » <a href="{{ video.url }}" title="{{ video.title }}">{{ video.title }}</a></li>
+    {% for post in site.posts %}
+        <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
