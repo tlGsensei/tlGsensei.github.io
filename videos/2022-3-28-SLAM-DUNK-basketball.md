@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: video
 title: "SLAM DUNK basketball"
 date: 2022-3-28
 ---
