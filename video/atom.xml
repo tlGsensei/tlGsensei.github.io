@@ -5,16 +5,16 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Gsensei's Blog</title>
-	<link href="http://tlgsensei.github.io/diary/atom.xml" rel="self"/>
-	<link href="http://tlgsensei.github.io/diary"/>
+	<link href="http://tlgsensei.github.io/video/atom.xml" rel="self"/>
+	<link href="http://tlgsensei.github.io/video"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://tlgsensei.github.io/diary</id>
+	<id>http://tlgsensei.github.io/video</id>
 	<author>
 		<name>Gsensei</name>
 		<email>www.1072446164@qq.com</email>
 	</author>
 
-	{% for post in site.catagories.diaries %}
+	{% for post in site.posts %}
 		<entry>
 			<title>{{ post.title }}</title>
 			<link href="http://tlgsensei.github.io{{ post.url }}"/>
