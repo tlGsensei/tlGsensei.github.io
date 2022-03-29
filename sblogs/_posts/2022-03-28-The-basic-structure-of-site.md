@@ -14,13 +14,15 @@ default.html: 页面默认布局，被index.html引用，Every time you commit a
 
 存储diary，markdown文件，命名为“YYYY-MM-DD-Title.md”
 
-**_posts/**
+**_blogs/**
 
 存储blog，markdown文件，命名为“YYYY-MM-DD-Title.md”
 
 **_videos/**
 
 存储video，markdown文件，命名为“YYYY-MM-DD-Title.md”
+
+以上三个项目中均存在_posts子文件夹，Jekyll只能对 _posts中的markdown文件进行构建
 
 **_site/**
 
@@ -30,11 +32,11 @@ index.html: about页布局
 
 **assert/**
 
+存放内嵌图片等非文本对象
+
 **blog/**
 
 index.html: blog页布局
-
-atom.xml
 
 **diary/**
 
