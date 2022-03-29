@@ -4,7 +4,7 @@ title: Diary
 ---
 <h2>{{ page.title }}</h2>
 <ul class="diaries">
-	{% for post in site.catagories.sdiaries %}
+	{% for post in site.categories.sdiaries %}
 		<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	{% endfor %}
 </ul>
