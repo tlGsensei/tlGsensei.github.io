@@ -9,7 +9,7 @@ title: Video
 <p>Click to see videos.</p>
 
 <ul class="videos">
-    {% for post in site.categories.videos %}
+    {% for post in site.categories.svideos %}
         <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
