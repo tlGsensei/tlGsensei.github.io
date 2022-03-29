@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Happy Birthday"
-date: 2022-3-30
+date: 2022-03-30
 ---
+
+<table><tr><td bgcolor=#7FFFD4>
 
 亲爱的官官：
 
@@ -11,3 +13,5 @@ date: 2022-3-30
 ​	新的一岁，我会继续陪你上课，陪你吃饭，陪你去看世界的温度与色彩。
 
 ​	谨以此篇，祝我最爱的官官生日快乐！
+
+</td></tr></table>
