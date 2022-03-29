@@ -12,6 +12,8 @@ date: 2022-3-29
 
 ​	所以我为你，为我们搭建了一个小小的网站，用它记录下生活中的点点滴滴和无法忘怀的瞬间。
 
+​	新的一岁，我会学会拍照，学会p图，学会记录我们的生活。
+
 ​	这是我们排队核酸检测时，一起看天上的月亮或者太阳。
 
 <center>
@@ -32,6 +34,6 @@ date: 2022-3-29
     <img src="https://img-blog.csdnimg.cn/6d1d5a1c231f4c379c808f0509a1b53d.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAR3NlbnNlaQ==,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center?raw=true" height="300px" width="400px">
 </center>
 
-​	新的一岁，我会
+​	新的一岁，我会慢慢学习，慢慢进步，变得
 
-​	谨以此篇，祝我最爱的官官生日快乐！
+​	最后，祝我最爱的官官生日快乐！
