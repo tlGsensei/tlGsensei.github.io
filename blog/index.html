@@ -4,6 +4,9 @@ title: Blog
 ---
 <h2>{{ page.title }}</h2>
 
+<p>Blogs are mainly about the academic and scientific research of Gsensei, as well as the new changes of the site.</p>
+<h2>Catalog: </h2>
+
 <ul class="blogs">
 	{% for post in site.categories.sblogs %}
 		<li><span>{{ post.date | date_to_string }}</span> : <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
